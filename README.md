@@ -4,7 +4,7 @@
 
 - I live on Brazil, Manaus-AM.
 - I have 14 years.
-- I current study only.
+- I study only.
 
 ## Stats
 
