@@ -20,7 +20,7 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img align="right" alt="PFP" height="230" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1008381343840862259/1051285370735710318/Picsart_22-11-30_22-29-15-352.jpg">
+  <img align="right" alt="PFP" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1008381343840862259/1051285370735710318/Picsart_22-11-30_22-29-15-352.jpg">
 </div>
   
   ##
@@ -28,6 +28,7 @@
 <div> 
  <a href="https://discord.gg/gvN6RxxQ2y" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jv0888854@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-![Snake animation](https://github.com/{{your_username}}/JoaoVictor834/blob/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://github.com/JoaoVictor834/JoaoVictor834/blob/output/github-contribution-grid-snake.svg)
 
 </div>
