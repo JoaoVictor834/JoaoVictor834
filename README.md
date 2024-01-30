@@ -30,6 +30,10 @@
  <a href="https://discord.gg/gvN6RxxQ2y" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jv0888854@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-![Snake animation](https://github.com/JoaoVictor834/JoaoVictor834/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JoaoVictor834/JoaoVictor834/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JoaoVictor834/JoaoVictor834/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/JoaoVictor834/JoaoVictor834/blob/output/github-snake-dark.svg" />
+</picture>
 
 </div>
