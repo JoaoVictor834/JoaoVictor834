@@ -3,7 +3,7 @@
 ### Informations
 
 - I live on Brazil, Manaus-AM.
-- I have 15 years.
+- I have 17 years.
 - I study only.
 
 ## Stats
@@ -11,8 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/JoaoVictor834">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor834&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor834&layout=compact&langs_count=7&theme=github_dark"/>
+
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,7 +20,7 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="right" alt="PFP" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1008381343840862259/1051285370735710318/Picsart_22-11-30_22-29-15-352.jpg">
+
 </div>
   
   ##
